@@ -1,0 +1,2 @@
+This is a Chrome extension that changes odd collors and replaces a word or phrase with a different word or phrase.
+It was mostly stolen from (https://chrome.google.com/webstore/detail/troll-quirk-remover-for-h/bijnbognmagkpcldjoedbpomhohhoceh)
