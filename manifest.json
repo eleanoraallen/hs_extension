@@ -1,6 +1,6 @@
 {
    "content_scripts": [ {
-      "js": [ "jquery-3.3.1.min.js", "content.js", "colors.js"],
+      "js": [ "jquery-3.3.1.min.js", "text.js", "colors.js", "expand.js", "nav.js"],
       "matches": [ "*://www.homestuck.com/*" ]
    } ],
    "description": "Attempts to remove the Homestuck Troll's leet speak quirks in chat logs. Also changes annoying colors.",
@@ -9,5 +9,5 @@
    },
    "manifest_version": 2,
    "name": "Quirk Remover/Color Changer for Homestuck.com",
-   "version": "0.11"
+   "version": "0.12.1"
 }
